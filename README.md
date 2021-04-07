@@ -68,3 +68,32 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Started with my projrct "imgur-clone"
+
+# problem statement
+
+IMGUR is the internet's most loved image hosting website because it lets you store as many photos as you like without having them deleted until you decide you want them gone. It's simple, easy to use, provides with various features and above all it's free. Also another beauty of the app is that it works as well without logging in or signing up. It has a massive user base with support for popular image formats and user comments. It's actually more of a central hub for storing and sharing photos than just a simple image hosting service. It is the place where you’ll find the funniest, most informative and inspiring images, memes, GIFs, and visual stories served up in an endless stream of bite-sized fun. Powered by a passionate community of people from all around the world, anyone can join to share cool stuff and vote the best to the top In addition to storing your photos, Imgur lets you crop and resize pictures as well as adjust other advanced settings through its online editor. We're going to build a similar app!
+
+# Releases
+
+Release 0
+Analyse, Assign and Break
+
+Release 1
+Create a React component to renders one image in the home page
+
+Release 2
+Integrate backend API such that you fetch all uploaded images and console the data in browser console
+
+Release 3
+Render all images using the component created using the response data from an API
+
+Release 4
+Create a header component which contains upload and sign-in options
+
+Release 5
+Create an upload modal such that you can upload an image to the database from this modal
+
+Release 6
+Create a sign-in modal such that user can log in to the application
